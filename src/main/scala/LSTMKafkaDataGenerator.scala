@@ -59,3 +59,4 @@ object LSTMKafkaDataGenerator {
     println("Kafka benzer verilerin üretimi tamamlandı.")
   }
 }
+
